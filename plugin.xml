@@ -27,12 +27,12 @@ SOFTWARE.
     id="cordova-plugin-private-localization-evakuator "
     version="1.0.0">
 
-    <name>cordova-plugin-private-localization-evakuator</name>
+    <name>evakuator</name>
 	<description>Private</description>
     <engines>
         <engine name="cordova" version=">=2.4.0" />
     </engines>
-    <repo>https://github.com/speige/cordova-plugin-private-mathmage-app-title-localization.git</repo>
+    <repo>https://github.com/PavelAn1/evakuator.git</repo>
 
 	<license>MIT</license>
     <keywords></keywords>
