@@ -24,8 +24,8 @@ SOFTWARE.
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="evakuator "
-    version="1.0.6">
+    id="evakuator"
+    version="1.0.7">
 
     <name>evakuator</name>
 	<description>Private</description>
